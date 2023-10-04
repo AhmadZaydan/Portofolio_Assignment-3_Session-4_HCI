@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(18, 235, 159);
+    
+}
+
+#centered{
+    color: rgb(18, 3, 130);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.paraFont{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.legend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+
+.profile{
+    border-style: solid;
+    border-color: rgb(136, 0, 255);
+    border-radius: 5px;
+    max-width: 50%;
+    margin-bottom: 10px;
+    align-items: center;
+    background-color: rgb(255, 242, 0);
+    align-content: center;
+    
+}
+
+#checkbox{
+    text-align: left;
+    font-family: Arial;
+}
+
+.justFont{
+    font-size: medium;
+    font-family: Arial;
+}
+
